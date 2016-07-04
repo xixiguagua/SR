@@ -1,13 +1,5 @@
 % =========================================================================
 % Test code for Super-Resolution Convolutional Neural Networks (SRCNN)
-%
-% Reference
-%   Chao Dong, Chen Change Loy, Kaiming He, Xiaoou Tang. Learning a Deep Convolutional Network for Image Super-Resolution, 
-%   in Proceedings of European Conference on Computer Vision (ECCV), 2014
-%
-% Chao Dong
-% IE Department, The Chinese University of Hong Kong
-% For any question, send email to ndc.forward@gmail.com
 % =========================================================================
 
 close all;
