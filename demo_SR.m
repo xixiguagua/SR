@@ -1,5 +1,5 @@
 % =========================================================================
-% Test code for Super-Resolution Convolutional Neural Networks (SRCNN)
+% Test Test code for Super-Resolution Convolutional Neural Networks (SRCNN)
 % =========================================================================
 
 close all;
